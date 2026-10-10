@@ -50,4 +50,4 @@ _For all three options, fill in all fields that apply._
 
 ## License
 
-WhatsApp Stickers is BSD licensed, as found in the [`LICENSE`](https://github.com/WhatsApp/stickers/blob/master/LICENSE) file.
+WhatsApp Stickers is BSD licensed, as found in the [`LICENSE`](https://github.com/WhatsApp/stickers/blob/master/LICENSE) file. https://t.me/addstickers/Packname
